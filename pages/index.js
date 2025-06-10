@@ -1,7 +1,8 @@
 function Home() {
   return (
     <h1>
-      Vou conseguuir desenvolver algo, vou persistir na sequência do curso!
+      Vou conseguir desenvolver algo, vou persistir na sequência do curso!
+      É só uma questão de tempo.
     </h1>
   );
 }
